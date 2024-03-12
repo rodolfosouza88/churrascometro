@@ -4,14 +4,14 @@
 
 <p align="center">	
   <a href="https://www.linkedin.com/in/rodolfosouza88/">
-    <img alt="Karoline Costa" src="https://img.shields.io/badge/-KarolineTakahagassi-FFE162?style=flat&logo=Linkedin&logoColor=black" />
+    <img alt="Karoline Costa" src="https://img.shields.io/badge/-RodolfoSouza-FFE162?style=flat&logo=Linkedin&logoColor=black" />
   </a>
 
   <a href="mailto:rodolfovasconcellos88@gmail.com">
-    <img alt="Rodolfo Souza" src="https://img.shields.io/badge/-takahagassi.dev@gmail.com-FFE162?style=flat-square&logo=Gmail&logoColor=black" />
+    <img alt="Rodolfo Souza" src="https://img.shields.io/badge/-rodolfovasconcellos88@gmail.com-FFE162?style=flat-square&logo=Gmail&logoColor=black" />
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-FFE162">
+  
 </p>
 
 <div align="center">
