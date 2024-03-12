@@ -1,5 +1,5 @@
 <p align="center">
-   <img src=".github/logo.svg" alt="Churrascometro"/>
+   <img src="/assets/img/churraslogo.png" alt="Churrascometro"/>
 </p>
 
 <p align="center">	
@@ -8,7 +8,7 @@
   </a>
 
   <a href="mailto:rodolfovasconcellos88@gmail.com">
-    <img alt="Rodolfo Souza" src="https://img.shields.io/badge/-rodolfovasconcellos88@gmail.com-FFE162?style=flat-square&logo=Gmail&logoColor=black" />
+    <img alt="Rodolfo Souza" src="https://img.shields.io/badge/-rodolfovasconcellos88@gmail.com-FFE162?style=flat-square&logo=Gmail&logoColor=black"/>
   </a>
 
   
@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-  <img alt="mockup" src=".github/churrascometro.png" width="100%">
+  <img alt="mockup" src="/assets/img/churraslogo.png" width="100%">
 </p>
 
 <p align="center">
