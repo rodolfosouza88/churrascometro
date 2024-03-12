@@ -25,7 +25,6 @@
 <p align="center">
   <a href="#clipboard-sobre-o-projeto">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#closed-book-licença">Licença</a>
 </p>
 
 ## :clipboard: Sobre o Projeto
