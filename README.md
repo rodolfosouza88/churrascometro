@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="/github/churrascometro.png" alt="Churrascometro"/>
+   <img src="/github/logo.svg" alt="Churrascometro"/>
 </p>
 
 <p align="center">	
@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-  <img alt="mockup" src="/github/logo.svg" width="100%">
+  <img alt="mockup" src="/github/churrascometro.png" width="100%">
 </p>
 
 <p align="center">
